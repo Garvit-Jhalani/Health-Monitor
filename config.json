@@ -1,0 +1,6 @@
+{
+  "urls": ["https://nonexistentsite123456789.com"],
+  "checkIntervalSeconds": 15,
+  "timeoutSeconds": 5,
+  "slowThresholdMs": 300
+}
