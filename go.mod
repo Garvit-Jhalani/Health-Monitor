@@ -1,3 +1,4 @@
-module health-monitor
+module main
+// module health-monitor
 
 go 1.24.3

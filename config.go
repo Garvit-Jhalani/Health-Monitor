@@ -19,8 +19,8 @@ type Config struct {
 func LoadConfig(configPath string) (*Config, error) {
 	// Default configuration
 	config := &Config{
-		URLs:           []string{"https://nonexistentsite123456789.com", "https://intellezaai.com"},
-		// URLs:           []string{"https://example.com", "https://google.com"},
+		// URLs:           []string{"https://nonexistentsite123456789.com", "https://intellezaai.com", "https://example.com"},
+		URLs:           []string{"https://example.com", "https://google.com", "https://newperasdfja.com"},
 		CheckInterval:  30 * time.Second,
 		TimeoutSeconds: 5,
 		SlowThreshold:  500, // 500ms

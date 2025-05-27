@@ -1,5 +1,5 @@
 {
-  "urls": ["https://nonexistentsite123456789.com"],
+  "urls": ["https://nonexistentsite123456789.com", "https://intellezaai.com"],
   "checkIntervalSeconds": 15,
   "timeoutSeconds": 5,
   "slowThresholdMs": 300
